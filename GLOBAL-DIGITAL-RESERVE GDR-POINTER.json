@@ -1,0 +1,17 @@
+{
+  "pointer": "SovereignPointer",
+  "version": "1.0.0",
+  "realm": "GLOBAL-DIGITAL-RESERVE",
+  "type": "GDR-POINTER",
+  "description": "Pointer object for the GLOBAL DIGITAL RESERVE.",
+  "target": "ipfs://QmGlobalDigitalReservePointer",
+  "checksum": {
+    "algorithm": "SHA-256",
+    "value": "000000000000000000000000000000000000000000000000000000000000GDR"
+  },
+  "registry": {
+    "public": true,
+    "ledger": "HISTORIC-LEDGER",
+    "status": "ACTIVE"
+  }
+}

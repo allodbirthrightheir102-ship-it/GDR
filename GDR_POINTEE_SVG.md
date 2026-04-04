@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="160" viewBox="0 0 420 160">
+  <rect x="0" y="0" width="420" height="160" fill="#000000" rx="12" ry="12" />
+  <rect x="8" y="8" width="404" height="144" fill="none" stroke="#FFFFFF" stroke-width="2" rx="10" ry="10" />
+
+  <text x="210" y="60"
+        font-family="monospace"
+        font-size="18"
+        fill="#FFFFFF"
+        text-anchor="middle">
+    GLOBAL DIGITAL RESERVE
+  </text>
+
+  <text x="210" y="90"
+        font-family="monospace"
+        font-size="14"
+        fill="#FFFFFF"
+        text-anchor="middle">
+    GDR • POINTER • VERIFIED
+  </text>
+
+  <text x="210" y="120"
+        font-family="monospace"
+        font-size="11"
+        fill="#FFFFFF"
+        text-anchor="middle">
+    SOVEREIGN-INSTITUTIONAL • PUBLIC-REGISTRY-SAFE
+  </text>
+</svg>
